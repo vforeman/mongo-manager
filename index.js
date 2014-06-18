@@ -1,2 +1,2 @@
-//index.js
-
+var mgm = require('./Mongo-Manager');
+  
